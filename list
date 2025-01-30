@@ -2,12 +2,13 @@ Project lalal apps
 
 Finish
 -register
+-signin
 
 On going
--sign_in
+-index
 
-Skip
+Draft
 -register_success.php
 -term of service(signin)
 -privacy policy(signin)
--forgor password(signin)
+-forgot password(signin)
