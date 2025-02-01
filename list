@@ -1,14 +1,28 @@
 Project lalal apps
 
-Finish
+FINISH
 -register
 -signin
 
-On going
+ON GOING
 -index
 
-Draft
+DRAFT
 -register_success.php
+
 -term of service(signin)
 -privacy policy(signin)
 -forgot password(signin)
+
+-search(index)
+
+-gold wallet(index)
+  -buy
+  -sell
+  -transaction
+
+-my point(index)
+-video call(index)
+-gold reservation(index)
+-my order(index)
+-product(index)
