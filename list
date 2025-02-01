@@ -3,9 +3,13 @@ Project lalal apps
 FINISH
 -register
 -signin
+-index
 
 ON GOING
--index
+-gold wallet(index)
+  -buy
+  -sell
+  -transaction
 
 DRAFT
 -register_success.php
@@ -15,11 +19,6 @@ DRAFT
 -forgot password(signin)
 
 -search(index)
-
--gold wallet(index)
-  -buy
-  -sell
-  -transaction
 
 -my point(index)
 -video call(index)
