@@ -10,8 +10,11 @@ FINISH
   -sell
   -transaction
 
-ON GOING
 -my point(index)
+-video call(index)
+
+ON GOING
+
 
 DRAFT
 -register_success.php
@@ -22,8 +25,11 @@ DRAFT
 -botton_navbar(index)
 
 -search(index)
-
--video call(index)
 -gold reservation(index)
 -my order(index)
 -product(index)
+
+-cart
+-my purchase
+-redeem
+-profile
