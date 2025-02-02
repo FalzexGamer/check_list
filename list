@@ -11,6 +11,7 @@ FINISH
   -transaction
 
 ON GOING
+-my point(index)
 
 DRAFT
 -register_success.php
@@ -22,7 +23,6 @@ DRAFT
 
 -search(index)
 
--my point(index)
 -video call(index)
 -gold reservation(index)
 -my order(index)
