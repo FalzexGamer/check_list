@@ -15,8 +15,7 @@ FINISH
 -my purchase
 
 ON GOING
-
-
+-botton_navbar(index)
 
 DRAFT
 -register_success.php
@@ -24,7 +23,6 @@ DRAFT
 -term of service(signin)
 -privacy policy(signin)
 -forgot password(signin)
--botton_navbar(index)
 
 -search(index)
 -product(index)
