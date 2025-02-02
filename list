@@ -12,9 +12,10 @@ FINISH
 
 -my point(index)
 -video call(index)
+-my purchase
 
 ON GOING
--my purchase
+
 
 
 DRAFT
@@ -26,8 +27,6 @@ DRAFT
 -botton_navbar(index)
 
 -search(index)
--gold reservation(index)
--my order(index)
 -product(index)
 
 -cart
