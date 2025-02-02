@@ -5,11 +5,12 @@ FINISH
 -signin
 -index
 
-ON GOING
 -gold wallet(index)
   -buy
   -sell
   -transaction
+
+ON GOING
 
 DRAFT
 -register_success.php
