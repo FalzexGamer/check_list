@@ -4,6 +4,7 @@ FINISH
 -register
 -signin
 -index
+-search(index)
 
 -gold wallet(index)
   -buy
@@ -24,7 +25,7 @@ DRAFT
 -privacy policy(signin)
 -forgot password(signin)
 
--search(index)
+
 -product(index)
 
 -cart
