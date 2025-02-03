@@ -18,16 +18,15 @@ FINISH
 -my purchase
 -botton_navbar(index)
 -profile
+-product(index)
+
+-cart
+-redeem
+
 
 ON GOING
 
 DRAFT
 -register_success.php
 -forgot password(signin)
-
--product(index)
-
--cart
--redeem
-
 confirm_videocall(video call)
