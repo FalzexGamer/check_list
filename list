@@ -5,6 +5,8 @@ FINISH
 -signin
 -index
 -search(index)
+-term of service(signin)
+-privacy policy(signin)
 
 -gold wallet(index)
   -buy
@@ -21,13 +23,11 @@ ON GOING
 
 DRAFT
 -register_success.php
-
--term of service(signin)
--privacy policy(signin)
 -forgot password(signin)
-
 
 -product(index)
 
 -cart
 -redeem
+
+confirm_videocall(video call)
